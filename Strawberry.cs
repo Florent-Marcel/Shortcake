@@ -83,7 +83,7 @@ namespace Shortcake
                         details = "Nothing playing.";
                         break;
                     default:
-                        details = windowTitle;
+                        details = windowTitle.Replace(" - Strawberry Music Player", "");
                         break;
                 }
             }
