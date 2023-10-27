@@ -2,7 +2,7 @@
 RPC for Strawberry Music Player.
 
 ## Building
- 1. Clone the repo with `git clone https://github.com/MechaDragonX/Shortcake.git`
+ 1. Clone the repo with `git clone https://github.com/Florent-Marcel/Shortcake`
  2. Open `Shortcake.sln` in Visual Studio
  3. Build using Ctrl-Shift-B or Build > Build Solution
  4. Build output is in `bin/Debug` or `bin/Release`, depending on what config you built for.
